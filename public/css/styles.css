@@ -1,0 +1,27 @@
+:root {
+    --primary-background: #333333;
+    --secondary-background: #bda266;
+    --text: white;
+}
+
+.navbar-background {
+    background-color: var(--secondary-background);
+}
+
+body {
+    background-color: var(--primary-background);
+}
+
+hr {
+    background-color: var(--text);
+}
+
+h1 { 
+    color: var(--text);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+i {
+    padding-right: 20px;
+}
