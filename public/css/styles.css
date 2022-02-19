@@ -39,3 +39,8 @@ a {
 .workLogo {
     max-width: 10%;
 }
+
+.list-group, .list-group-item, .fas{
+    text-decoration: none;
+    color: black;
+}
