@@ -35,3 +35,7 @@ a {
 .card-text {
     font-size: 14px;
 }
+
+.workLogo {
+    max-width: 10%;
+}
